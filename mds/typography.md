@@ -1,8 +1,4 @@
-[&larr; Back](./README.md)
-
 # Typography
-
-## Typography Rules
 
 _Typeface Rules_
 
@@ -31,8 +27,6 @@ _Good Reading Experience Rules_
 - **13.** Never justify text
 - **14.** Dont' center long text blocks. Small blocks are fine
 
-<br>
-
 ## Serif and Sans-Serif Typefaces
 
 - **Serif Typeface** - typefaces with small details (serifs) at the end of the lines.
@@ -42,5 +36,3 @@ _Good Reading Experience Rules_
 
 - _Good examples of Serif Typefaces:_ Merriweather / Aleo / Playfair Display / Cormorant / Cardo / Lora
 - _Good examples of Sans-Serif Typefaces:_ **League Spartan** / Inter / Open Sans / Roboto / Montserrat / Work Sans / Lato / Rubik
-
-<br>

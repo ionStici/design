@@ -1,5 +1,3 @@
-[&larr; Back](./README.md)
-
 # Website Personalities
 
 **Design Rules:** Typography -> Colors -> Images / Illustrations -> Icons -> Shadows -> Border-radius -> Whitespace -> Visual hierarchy -> User Experience -> Components / Layout.
@@ -10,8 +8,6 @@ Different personalities have different traits, therefore choices for design ingr
 
 It looks a lot better if we stay consistent throughout the design based on the design rules.
 
-<br>
-
 ## Table of Content
 
 - [01 Serious / Elegant](#01-serious--elegant)
@@ -21,8 +17,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - [05 Calm / Peaceful](#05-calm--peaceful)
 - [06 Startup / Upbeat](#06-startup--upbeat)
 - [07 Playful / Fun](#07-playful--fun)
-
-<br>
 
 ## 01 Serious / Elegant
 
@@ -36,8 +30,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Border-Radius:** Usually no border-radius
 - **Layout:** A creative and experimental layout is quite common
 
-<br>
-
 ## 02 Minimalist / Simple
 
 - **Overview:** Focusses on the essential text content, using small or medium-sized sans-serif black text, lines, and few images and icons.
@@ -49,8 +41,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Shadows:** Usually no shadows
 - **Border-Radius:** Usually no border-radius
 - **Layout:** Simple layout, a narrow one-column layout is quite common
-
-<br>
 
 ## 03 Plain / Neutral
 
@@ -64,8 +54,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Border-Radius:** Usually no border-radius
 - **Layout:** Structured and condensed layout, with lots of boxes and rows
 
-<br>
-
 ## 04 Bold / Confident
 
 - **Overview:** Design that makes an impact, by featuring **big and bold typography**, paired with confident use of **big colored blocks**
@@ -77,8 +65,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Shadows:** Usually no shadows
 - **Border-Radius:** Usually no border-radius
 - **Layout:** All kinds of layouts, no particular tendencies
-
-<br>
 
 ## 05 Calm / Peaceful
 
@@ -92,8 +78,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Border-Radius:** Some border-radius is usual
 - **Layout:** All kinds of layouts, no particular tendencies
 
-<br>
-
 ## 06 Startup / Upbeat
 
 - **Overview:** Widely used in startups, featuring **medium-sized** sans-serif typefaces, **light-grey backgrounds**, and rounded elements
@@ -106,8 +90,6 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Border-Radius:** Border-radius is very common
 - **Layout:** Rows of cards and Z-patterns are usual, as well as animations
 
-<br>
-
 ## 07 Playful / Fun
 
 - **Overview:** **Colorful and round** designs, fueled by **creative elements** like hand-drawn icons or illustrations, animations, and fun language
@@ -119,5 +101,3 @@ It looks a lot better if we stay consistent throughout the design based on the d
 - **Shadows:** Subtle shadows are quite common, but not always used
 - **Border-Radius:** Border-radius is very common
 - **Layout:** All kinds of layours, no particular tendencies
-
-<br>

@@ -1,8 +1,4 @@
-[&larr; Back](./README.md)
-
 # Colors
-
-## Color Rules
 
 _Choose the right color_
 
@@ -35,8 +31,6 @@ _Colors and Typography_
 
 <div></div>
 
-<br>
-
 ## The meaning of colors
 
 - **Red** - draws attention, symbollizes power, passion, excitement
@@ -48,5 +42,3 @@ _Colors and Typography_
 - **Pink** - romance, care, affection
 - **Brown** - nature, durabillity, , comfort
 - **Black** - power, elegance, minimalism, also griefand sorrow
-
-<br>

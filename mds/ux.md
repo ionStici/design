@@ -1,6 +1,4 @@
-[&larr; Back](./README.md)
-
-# User Experience (UX) Rules
+# User Experience (UX)
 
 _UX Rules for Usability_
 
@@ -19,8 +17,6 @@ _UX Rules for Website Content_
 - **10.** Use simple words. Avoid technical jargon and "smart-sounding" words
 - **11.** Break up long text with sub-headings, images, block quotes, bullet points, etc.
 
-<br>
-
 ## What is User Experience
 
 **User Interface (UI)** is the visual presentation of a product. It's how the graphical interface looks and feels like. Layout, typography, colors, icons, the overall personality.
@@ -28,10 +24,8 @@ _UX Rules for Website Content_
 **User Experience (UX)** is the overall experience the user has while interacting with the product. "Does the app feel logical and well thought out?", "Does the navigation work intuitively?", "Are users reaching their goals?".
 
 - **UI Design** is graphical interface, is what makes an interface beautiful.
-- **UX Design** is exprience with interface, is what makes an interface useful and functional.
+- **UX Design** is experience with interface, is what makes an interface useful and functional.
 
 UI design is part of UX design.
 
 _UX Design Guiding principle:_ A website exists for a reason: a user has a goal for visiting it, and a business has a goal for creating it.
-
-<br>

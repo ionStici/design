@@ -1,6 +1,4 @@
-[&larr; Back](./README.md)
-
-# Images and Illustrations Rules
+# Images and Illustrations
 
 _Use good images:_
 
@@ -25,5 +23,3 @@ _Some technical details:_
 - **10.** To account for high-res screens, make image dimensions 2x as big as their displyed size
 - **11.** Compress image for lower file size and better performance
 - **12.** When using multiple images side-by-side, make sure they have the exact same dimensions
-
-<br>
